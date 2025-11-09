@@ -38,6 +38,7 @@ Business Email Compromises (BECs) are responsible for many phishing scams, incur
 
 ## Screenshots
 On Wireshark, exported IMF object to obtain `.eml` file
+
 Used **Mozilla Thunderbird** as email client to view the email messages contained in the `.eml` files.
 
 ![Screenshot 1](Screenshots/em1.png)
