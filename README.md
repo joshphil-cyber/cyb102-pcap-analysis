@@ -47,7 +47,7 @@ Used **Mozilla Thunderbird** as email client to view the email messages containe
 
 ![Screenshot 3](Screenshots/em3.png)
 ## Reflection
-This projected helped me understand how attackers exploit SMTP protocols, and how blue team cybersecurity specialists can use tools like Wireshark to sniff packets and analyze network traffic.
+This project helped me understand how attackers exploit SMTP protocols, and how blue team cybersecurity specialists can use tools like Wireshark to sniff packets and analyze network traffic.
 
 I developed skills in
 - Email Forensics
